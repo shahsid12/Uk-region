@@ -1,0 +1,49 @@
+1650797749538	geckodriver	INFO	Listening on 127.0.0.1:62266
+1650797752570	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Siddhi\\AppData\\Local\\Temp\\rust_mozprofilee4qkUA"
+1650797753030	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Siddhi\\AppData\\Local\\Temp\\rust_mozprofilee4qkUA\\search.json.mozlz4", (void 0)))
+1650797755381	Marionette	INFO	Listening on port 62293
+Read port: 62293
+1650797757223	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1650797810941	Marionette	INFO	Stopped listening on port 62293
+0797810035	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Siddhi\\AppData\\Local\\Temp\\rust_mozprofilezEqxKy"
+1650797810477	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Siddhi\\AppData\\Local\\Temp\\rust_mozprofilezEqxKy\\search.json.mozlz4", (void 0)))
+1650797813601	Marionette	INFO	Listening on port 62435
+Read port: 62435
+1650797813684	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1650797896574	Marionette	INFO	Stopped listening on port 62435
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1650798199194	geckodriver	INFO	Listening on 127.0.0.1:62713
+1650798202219	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Siddhi\\AppData\\Local\\Temp\\rust_mozprofile3pcNSO"
+1650798202777	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Siddhi\\AppData\\Local\\Temp\\rust_mozprofile3pcNSO\\search.json.mozlz4", (void 0)))
+1650798205626	Marionette	INFO	Listening on port 62742
+Read port: 62742
+1650798205808	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: https://uat.travelex-dev.net/gb/Error/SessionExpired line 423 > injectedScript, line 1: TypeError: window.__Order is undefined
+1650803061577	geckodriver	INFO	Listening on 127.0.0.1:65500
+1650803064634	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Siddhi\\AppData\\Local\\Temp\\rust_mozprofileufvmin"
+1650803065082	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Siddhi\\AppData\\Local\\Temp\\rust_mozprofileufvmin\\search.json.mozlz4", (void 0)))
+1650803067699	Marionette	INFO	Listening on port 65530
+Read port: 65530
+1650803067746	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://uat.travelex-dev.net/gb/Error/SessionExpired line 423 > injectedScript, line 1: TypeError: window.__Order is undefined
+fox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Siddhi\\AppData\\Local\\Temp\\rust_mozprofileIuBXiF"
+1650803133108	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Siddhi\\AppData\\Local\\Temp\\rust_mozprofileIuBXiF\\search.json.mozlz4", (void 0)))
+1650803135638	Marionette	INFO	Listening on port 49253
+Read port: 49253
+1650803135756	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://uat.travelex-dev.net"
+JavaScript error: https://uat.travelex-dev.net/gb/Error/SessionExpired line 423 > injectedScript, line 1: TypeError: window.__Order is undefined
